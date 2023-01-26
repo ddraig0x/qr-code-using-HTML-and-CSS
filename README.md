@@ -1,1 +1,1 @@
-# qr-code-using-HTML-and-CSS
+# Solution to the Challenge from Front-end Mentor using HTML and CSS
